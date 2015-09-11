@@ -1,0 +1,8 @@
+.bundle
+.env.local
+data
+
+.dockerignore
+.git
+.gitignore
+Dockerfile
